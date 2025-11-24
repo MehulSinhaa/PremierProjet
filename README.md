@@ -1,7 +1,3 @@
-# README.md
-
-This file provides guidance to WARP (warp.dev) when working with code in this repository.
-
 ## Project overview
 
 This repository is a minimal static web page implementing a simple crowdfunding/kitty UI. It consists of a single HTML document (`index.html`) and a single stylesheet (`styles.css`). There is no JavaScript, build tooling, or backend.
